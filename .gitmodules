@@ -1,0 +1,9 @@
+[submodule "libs/x265"]
+	path = libs/x265
+	url = https://github.com/videolan/x265.git
+[submodule "libs/libde265"]
+	path = libs/libde265
+	url = https://github.com/strukturag/libde265.git
+[submodule "libs/libheif"]
+	path = libs/libheif
+	url = https://github.com/strukturag/libheif.git
